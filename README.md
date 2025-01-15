@@ -11,5 +11,5 @@ navigate to respective directories both frontend and backend
 and type "npm install" in both directories
 
 
-To open in both directories type in frontend "npm start" in backend "node index.js"
+To open project on live server go to both directories  frontend type "npm start" in backend type "node index.js"
 
